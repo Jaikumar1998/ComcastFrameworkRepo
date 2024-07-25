@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.crm.listenertuility.ListenerImpClass"></listener>
+	</listeners>
+  <test name="test">
+    <classes>
+      <class name="com.crm.orgtest.CreateOrganiszationwithannotation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

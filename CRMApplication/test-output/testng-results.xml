@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T15:23:18 IST" name="Default suite" finished-at="2024-07-24T15:24:08 IST" duration-ms="50762">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="CreateOrganiszationwithannotation.createOrganizationTest()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" name="createOrganizationTest" class="com.crm.orgtest.CreateOrganiszationwithannotation"/>
+      </group> <!-- SmokeTest -->
+    </groups>
+    <test started-at="2024-07-24T15:23:18 IST" name="Default test" finished-at="2024-07-24T15:24:08 IST" duration-ms="50762">
+      <class name="com.crm.orgtest.CreateOrganiszationwithannotation">
+        <test-method is-config="true" signature="confiBS()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:16 IST" name="confiBS" finished-at="2024-07-24T15:23:18 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBS -->
+        <test-method is-config="true" signature="confiBC()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:18 IST" name="confiBC" finished-at="2024-07-24T15:23:19 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBC -->
+        <test-method is-config="true" signature="confiBM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:19 IST" name="confiBM" finished-at="2024-07-24T15:23:23 IST" duration-ms="3575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBM -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:23 IST" name="createOrganizationTest" finished-at="2024-07-24T15:23:35 IST" duration-ms="12047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="confiAM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:35 IST" name="confiAM" finished-at="2024-07-24T15:23:36 IST" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAM -->
+        <test-method is-config="true" signature="confiBM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:36 IST" name="confiBM" finished-at="2024-07-24T15:23:40 IST" duration-ms="3344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBM -->
+        <test-method signature="createOrganizationWithPhnNo()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:40 IST" name="createOrganizationWithPhnNo" finished-at="2024-07-24T15:23:51 IST" duration-ms="10902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithPhnNo -->
+        <test-method is-config="true" signature="confiAM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:51 IST" name="confiAM" finished-at="2024-07-24T15:23:52 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAM -->
+        <test-method is-config="true" signature="confiBM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:52 IST" name="confiBM" finished-at="2024-07-24T15:23:55 IST" duration-ms="3230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBM -->
+        <test-method signature="createOrganizationwithIndustriesTest()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:23:56 IST" name="createOrganizationwithIndustriesTest" finished-at="2024-07-24T15:24:07 IST" duration-ms="11157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationwithIndustriesTest -->
+        <test-method is-config="true" signature="confiAM()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:24:07 IST" name="confiAM" finished-at="2024-07-24T15:24:08 IST" duration-ms="1576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAM -->
+        <test-method is-config="true" signature="confiAf()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:24:08 IST" name="confiAf" finished-at="2024-07-24T15:24:08 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAf -->
+        <test-method is-config="true" signature="congiAs()[pri:0, instance:com.crm.orgtest.CreateOrganiszationwithannotation@74ea2410]" started-at="2024-07-24T15:24:09 IST" name="congiAs" finished-at="2024-07-24T15:24:09 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congiAs -->
+      </class> <!-- com.crm.orgtest.CreateOrganiszationwithannotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
